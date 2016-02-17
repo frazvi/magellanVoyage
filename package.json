@@ -1,0 +1,32 @@
+{
+  "name": "magellanvoyage",
+  "version": "1.0.0",
+  "description": "groupexercise",
+  "main": "magellanVoyage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frazvi/magellanVoyage.git"
+  },
+  "keywords": [
+    "magellan",
+    "voyage",
+    "travel",
+    "spain",
+    "zoe",
+    "group",
+    "project"
+  ],
+  "author": "Zoe & Fatima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frazvi/magellanVoyage/issues"
+  },
+  "homepage": "https://github.com/frazvi/magellanVoyage#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
